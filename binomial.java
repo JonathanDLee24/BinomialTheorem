@@ -12,8 +12,8 @@ public class binomial
 {
    public static void main (String args[])
    {
-      int a = 4700; // enter as (n/j) n here
-      int b = 2500; // j here
+      int a = 7; // enter as (n/j) n here
+      int b = 5; // j here
       System.out.println(BinomialTheorem(a, b));
    }
 
